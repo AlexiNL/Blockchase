@@ -1,4 +1,4 @@
-# Javascript-gimma
+Javascript game
 
 
-dis is for school 
+for school 
